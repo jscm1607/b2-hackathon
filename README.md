@@ -1,10 +1,10 @@
 # B2Twin: Multi-Agent Communication System for Biosphere 2
 
 ## Team
-Diego Torres
-Reika Fitzpatrick
-Jose Santiago Campa Morales
-Cynthia Eduwiges Navarro
+   - Diego Torres
+   - Reika Fitzpatrick
+   - Jose Santiago Campa Morales
+   - Cynthia Eduwiges Navarro
 
 ## Overview
 
