@@ -32,7 +32,7 @@ pip install streamlit pandas plotly ollama
 
 1. **Run the application**:
    ```
-   streamlit run multi-agent-protocol.py
+   streamlit run multi-agent-v3.py
    ```
 
 2. **Load Biome Data**:
@@ -86,16 +86,8 @@ The B2Twin system is designed to be modular and extensible. New agent types can 
 
 ## Hackathon Context
 
-This project was developed during the B2Twin Hackathon (March 22-23, 2025) at Biosphere 2. The goal was to create a digital twin of Biosphere 2 using AI to help scientists restore degraded environments on Earth and prepare for space travel.
+This project was developed during the B2Twin Hackathon (March 22-23, 2025). The goal was to create a digital twin of Biosphere 2 using AI to help scientists restore degraded environments on Earth and prepare for space travel.
 
 ## Contributors
 
 Developed by participants in the B2Twin Hackathon, with support from AI Core and Biosphere 2 research teams.
-
-## License
-
-[Your chosen license]
-
----
-
-For more information about Biosphere 2 and available data, visit: https://biosphere2.org/research/systems-data
