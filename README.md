@@ -22,12 +22,6 @@ The B2Twin system consists of the following components:
 3. **B2TwinNetwork Class**: Manages the agent network and communication
 4. **Streamlit UI**: User interface for interacting with the system
 
-## Installation Requirements
-
-```
-pip install streamlit pandas plotly ollama
-```
-
 ## Usage
 
 1. **Run the application**:
