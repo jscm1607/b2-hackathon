@@ -1,5 +1,11 @@
 # B2Twin: Multi-Agent Communication System for Biosphere 2
 
+## Team
+Diego Torres
+Reika Fitzpatrick
+Jose Santiago Campa Morales
+Cynthia Eduwiges Navarro
+
 ## Overview
 
 The B2Twin project is an innovative multi-agent AI system designed for Biosphere 2 research. It enables collaboration between AI agents representing different biomes within Biosphere 2, allowing for integrated data analysis, knowledge sharing, and complex ecosystem modeling. The system includes specialized agents for environmental data processing and historical context analysis, providing a comprehensive digital twin solution for Biosphere 2.
@@ -14,7 +20,7 @@ The B2Twin project is an innovative multi-agent AI system designed for Biosphere
 - **Collaborative Analysis**: Cross-biome data synthesis for holistic ecosystem understanding
 
 ## Future Features
-- **Math/Physicist-Agen**: This next agent can become crucial similarly to the historical context agent in helping biosphere researchers develop numerical models and simulations of derived insight. This Modeling Agent will be trained on math models related to the physics of the problem and/or propose ML/DL approaches for an optimized simulated environment/ for future experiments.
+- **Math/Physicist-Agent**: This next agent can become crucial similarly to the historical context agent in helping biosphere researchers develop numerical models and simulations of derived insight. This Modeling Agent will be trained on math models related to the physics of the problem and/or propose ML/DL approaches for an optimized simulated environment/ for future experiments.
 - **Checking Archive Results**: Expanding use of model 
 - **Improving Communication Protocol**: Langgraph, Autogen. Better latency
 
