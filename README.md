@@ -13,6 +13,11 @@ The B2Twin project is an innovative multi-agent AI system designed for Biosphere
 - **Data Visualization**: Interactive charts, graphs, and statistics for environmental data analysis
 - **Collaborative Analysis**: Cross-biome data synthesis for holistic ecosystem understanding
 
+## Future Features
+- **Math/Physicist-Agen**: This next agent can become crucial similarly to the historical context agent in helping biosphere researchers develop numerical models and simulations of derived insight. This Modeling Agent will be trained on math models related to the physics of the problem and/or propose ML/DL approaches for an optimized simulated environment/ for future experiments.
+- **Checking Archive Results**: Expanding use of model 
+- **Improving Communication Protocol**: Langgraph, Autogen. Better latency
+
 ## System Architecture
 
 The B2Twin system consists of the following components:
@@ -72,7 +77,7 @@ The system uses the following default ports for agent communication:
 
 ## LLM Integration
 
-The system utilizes Ollama to run local Large Language Models (LLMs), with a recommended parameter size of 7b or less. The default model is "deepseek-r1:1.5b" but can be configured to use other compatible models based on your hardware capabilities.
+The system utilizes Ollama to run local Large Language Models (LLMs). The default model is "deepseek-r1:1.5b" but can be configured to use other compatible models based on your hardware capabilities.
 
 ## Development and Extension
 
