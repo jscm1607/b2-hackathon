@@ -1,6 +1,6 @@
 # B2Twin: Multi-Agent Communication System for Biosphere 2
 
-## Team
+## Team - PROBEP
    - Diego Torres
    - Reika Fitzpatrick
    - Jose Santiago Campa Morales
